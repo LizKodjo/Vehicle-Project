@@ -1,0 +1,8 @@
+C:\Users\NiiYemo\source\repos\VehicleDetails\bin\Debug\VehicleDetails.exe.config
+C:\Users\NiiYemo\source\repos\VehicleDetails\bin\Debug\VehicleDetails.exe
+C:\Users\NiiYemo\source\repos\VehicleDetails\bin\Debug\VehicleDetails.pdb
+C:\Users\NiiYemo\source\repos\VehicleDetails\obj\Debug\VehicleDetails.csproj.AssemblyReference.cache
+C:\Users\NiiYemo\source\repos\VehicleDetails\obj\Debug\VehicleDetails.csproj.CoreCompileInputs.cache
+C:\Users\NiiYemo\source\repos\VehicleDetails\obj\Debug\VehicleDetails.exe
+C:\Users\NiiYemo\source\repos\VehicleDetails\obj\Debug\VehicleDetails.pdb
+C:\Users\NiiYemo\source\repos\VehicleDetails\bin\Debug\Program.cs
